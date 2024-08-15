@@ -1,0 +1,5 @@
+captcha_decoding/.env
+captcha_decoding/__pycache__
+captcha_decoding/env
+fastapi_server/env
+ocr_flask_api/env
